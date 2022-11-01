@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My first Blog",
+            "body": "Why do we use technology to refactor the society",
+            "author": "Vinay Chandran",
+            "id":1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "What is it be a dev",
+            "author": "Adarsh",
+            "id":2
+        }
+    ]
+}
