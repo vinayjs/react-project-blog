@@ -1,16 +1,22 @@
 {
-    "blogs": [
-        {
-            "title": "My first Blog",
-            "body": "Why do we use technology to refactor the society",
-            "author": "Vinay Chandran",
-            "id":1
-        },
-        {
-            "title": "Opening Party!",
-            "body": "What is it be a dev",
-            "author": "Adarsh",
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+      "author": "Vinay Chandran",
+      "id": 1
+    },
+    {
+      "title": "Technology!",
+      "body": "Technology is the application of scientific knowledge to the practical aims of human life or, as it is sometimes phrased, to the change and manipulation of the human environment.",
+      "author": "Adarsh",
+      "id": 2
+    },
+    {
+      "title": "CLUB",
+      "body": "A club is an association of people united by a common interest or goal. A service club, for example, exists for voluntary or charitable activities. There are clubs devoted to hobbies and sports, social activities clubs, political and religious clubs, and so forth.",
+      "author": "Preethi",
+      "id": 3
+    }
+  ]
 }
